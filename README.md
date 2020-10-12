@@ -1,5 +1,8 @@
 # 领导说自动识别不好用，必须要先拍照，然后识别照片逻辑才正常
 感谢大神的无私奉献，原文链接：https://github.com/ccc920123/LicensePlateDemo
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2020101218001416.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1MzUwNjU0,size_16,color_FFFFFF,t_70#pic_center)
+
 # 号牌号码识别，支持新能源车牌，离线识别
 号牌识别，支持新能源车，离线版
 ## 使用方式：
